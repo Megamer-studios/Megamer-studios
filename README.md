@@ -40,4 +40,4 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=megamer-studios&" alt="megamer-studios" /></p>
 
-<iframe src='https://widgets.sociablekit.com/rss-feed/iframe/25376852' frameborder='0' width='100%' height='1000'></iframe>
+<div class='sk-ww-rss-feed' data-embed-id='25376852'></div><script src='https://widgets.sociablekit.com/rss-feed/widget.js' async defer></script>
