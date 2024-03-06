@@ -39,3 +39,5 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=megamer-studios&show_icons=true&locale=en" alt="megamer-studios" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=megamer-studios&" alt="megamer-studios" /></p>
+
+<iframe src='https://widgets.sociablekit.com/rss-feed/iframe/25376852' frameborder='0' width='100%' height='1000'></iframe>
