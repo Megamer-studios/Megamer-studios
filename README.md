@@ -2,11 +2,9 @@
 
 ### The nerd behind it all
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=Megamer-studios&label=Profile views&color=0e75b6&style=flat" alt="Megamer-studios" /> </p>
-
 <p align="left"> <a href="https://twitter.com/aquamarineho" target="blank"><img src="https://img.shields.io/twitter/follow/aquamarineho?logo=twitter&style=for-the-badge" alt="aquamarineho" /></a> </p>
 
-- 🔭 I'm currently working on **AquaScript **
+- 🔭 I'm currently working on **AquaScript**
 
 - 🌱 I'm currently learning **DotNET C#**
 
