@@ -18,7 +18,7 @@
 
 - ⚡ Fun fact **I exist :3**
 
-- 👨‍💻 All of my projects are available at **[https://akumarin.neocities.org/](https://akumarin.neocities.org/)**
+- 👨‍💻 All of my projects are available at **[https://akumarin.aquaweb.cc/](https://akumarin.aquaweb.cc/)**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
