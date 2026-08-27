@@ -8,9 +8,9 @@
 
 - 🌱 I'm currently learning **RUST**
 
-- 👯 I'm looking to collaborate on **FREAK-lang**
+- 👯 I'm looking to collaborate on **sqript**
 
-- 🤝 I'm looking for help with **recreating aero style user interfaces**
+- 🤝 I'm looking for help with **interpreter structure and tokenization**
 
 - 💬 Ask me about **C#, DotNET and web development**
 
