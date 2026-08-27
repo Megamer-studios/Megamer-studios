@@ -6,7 +6,7 @@
 
 - 🔭 I'm currently working on **AquaScript**
 
-- 🌱 I'm currently learning **DotNET C#**
+- 🌱 I'm currently learning **RUST**
 
 - 👯 I'm looking to collaborate on **FREAK-lang**
 
