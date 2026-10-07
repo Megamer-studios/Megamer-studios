@@ -6,7 +6,7 @@
 
 - 🔭 I'm currently working on **AquaScript**
 
-- 🌱 I'm currently learning **RUST**
+- 🌱 I'm currently learning **RUST** и **C**
 
 - 👯 I'm looking to collaborate on **sqript**
 
