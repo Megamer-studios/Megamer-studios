@@ -14,7 +14,7 @@
 
 - 💬 Ask me about **C#, DotNET and web development**
 
-- 📫 How to reach me **akumarin@aquaweb.cc**
+- 📫 How to reach me **akumarin@cem.pp.ua**
 
 - ⚡ Fun fact **I exist :3**
 
