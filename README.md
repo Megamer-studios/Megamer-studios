@@ -4,7 +4,7 @@
 
 <p align="left"> <a href="https://twitter.com/aquamarineho" target="blank"><img src="https://img.shields.io/twitter/follow/aquamarineho?logo=twitter&style=for-the-badge" alt="aquamarineho" /></a> </p>
 
-- 🔭 I'm currently working on **AquaScript**
+- 🔭 I'm currently working on **Estrelas**
 
 - 🌱 I'm currently learning **RUST** и **C**
 
